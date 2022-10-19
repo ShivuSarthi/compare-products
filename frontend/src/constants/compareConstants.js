@@ -1,0 +1,3 @@
+export const ADD_TO_COMPARE = "ADD_TO_COMPARE";
+
+export const REMOVE_COMPARE_ITEM = "REMOVE_COMPARE_ITEM";
